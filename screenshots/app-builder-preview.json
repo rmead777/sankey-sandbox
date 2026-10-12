@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Flume",
+      "hasCanvas": false,
+      "bodyTextLen": 1104,
+      "bodyTextHash": "553462b1f13f8d6c028882a6184cbc371ea018008852aa58e63ca0512f9f6717",
+      "bodyTextPrefix": "Where the year went Flume Samples Present Copy link Download FLO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Flume",
+      "hasCanvas": false,
+      "bodyTextLen": 435,
+      "bodyTextHash": "1665e3875d2bbed621605b4b3aab337c436cc518240382007d1ea7e31f167f82",
+      "bodyTextPrefix": "Where the year went Flume Diagram Edit Where the year went Thous",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
